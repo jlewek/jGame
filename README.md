@@ -13,15 +13,15 @@
 <p>After install node js create you project folder, and clone this repository.</p>
 
 <code>
-$ mkdir my-jGame-Project
-$ git clone https://github.com/jlewek/jGame.git my-jGame-Project/
+$ mkdir my-jGame-Project<br />
+$ git clone https://github.com/jlewek/jGame.git my-jGame-Project/<br />
 </code>
 
 <p>Go into your project folder and install all dependency</p>
 
 <code>
-$ npm install
-$ bower install
+$ npm install<br />
+$ bower install<br />
 </code>
 
 <p>Now you can test project by local http server. Run it by:</p>

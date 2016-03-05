@@ -1,0 +1,14 @@
+{
+  "name": "jGame",
+  "version": "1.0.0",
+  "description": "jQuery game engine",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlewek/jGame.git"
+  },
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "http-server": "^0.9.0"
+  },
+  "author": "Jakub Lewek"
+}

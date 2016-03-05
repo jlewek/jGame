@@ -1,0 +1,13 @@
+{
+  "name": "jGame",
+  "version": "1.0.0",
+  "main": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "jquery": "^2.2.1"
+  }
+}
