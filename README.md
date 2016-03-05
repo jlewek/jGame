@@ -14,7 +14,7 @@
 
 <code>
 $ mkdir my-jGame-Project
-</code>
+</code><br />
 <code>
 $ git clone https://github.com/jlewek/jGame.git my-jGame-Project/
 </code>
@@ -23,8 +23,8 @@ $ git clone https://github.com/jlewek/jGame.git my-jGame-Project/
 
 <code>
 $ npm install
-</code>
-</code>
+</code><br />
+<code>
 $ bower install
 </code>
 
